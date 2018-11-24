@@ -87,5 +87,4 @@ function removeElementFromEndOfArray (array) {
 function removeElementFromEndOfArray (array) {
   return array.slice(0, array.length - 1);
 }
-=======
->>>>>>> 30c8f5f99437133e35f9d945486b986c8cd601c6
+
